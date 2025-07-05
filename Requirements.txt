@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-matplotlib
+matplotlib.pyplot as plt
 seaborn
 scikit-learn
 mlxtend
